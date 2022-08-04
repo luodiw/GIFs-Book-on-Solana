@@ -4,6 +4,8 @@ GIFs (giffs or gifts) can now be collected on Solana's blockchain, verifying you
 
 (Naming takes inspiration from facebook :) )
 
+![Screenshot](/assets/screenshot.png)
+
 ## Installating
 
 ### Getting the frontend up and running
